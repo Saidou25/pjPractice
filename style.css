@@ -1,0 +1,9 @@
+. parent {
+    display: flex
+}
+
+. child {
+    height: 200px;
+    background: coral;
+    padding: 1rem;
+}
